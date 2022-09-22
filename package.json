@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapscssproject",
+  "version": "1.0.0",
+  "description": "bootstrapScssProject飾品網站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenny2234/bootstrapScssProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jenny2234/bootstrapScssProject/issues"
+  },
+  "homepage": "https://github.com/Jenny2234/bootstrapScssProject#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
