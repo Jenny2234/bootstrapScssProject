@@ -1,11 +1,14 @@
 nav{
-    .navbar-brand{
-        background-image: url("https://i.imgur.com/hkxj6fs.png");
-        // background: #000;
-        width: 200px;
-        height: 200px;
-    }
     .bg-primary:hover{
         box-shadow: 4px 4px rgb(10, 10, 10);
     }
+    .nav-item{
+        .nav-link:hover{
+            color: #F9C745;
+        }
+    }
+}
+footer{
+    border-top: 3px solid #F9C745;
+    
 }
