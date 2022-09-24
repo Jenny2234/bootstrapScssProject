@@ -17,3 +17,16 @@
 .index-img:hover{
     box-shadow: 10px 5px 20px rgba(0, 0, 0, 0.3);
 }
+.position-fixed{
+    background-image: url(./img/btn.png);
+    /* background: #000; */
+    width: 200px;
+    height: 200px;
+    bottom: 0;
+    right: 0;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+.position-fixed:hover{
+    background-image: url(./img/btn2.png);
+  }
